@@ -1,4 +1,5 @@
 # better_bombies
 eaglercraft bombies texture pack
 
-I hate 100 file upload limit :(
+Since I don't enjoy the 100 file upload limit I will just upload a .zip with the stuff
+
